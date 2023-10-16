@@ -1,5 +1,6 @@
 # Metric/Imperial Unit Conversion
-<img width="312" alt="Screenshot 2023-10-16 at 16 06 07" src="https://github.com/Souheilaso/Metric-Imperial-Unit-Conversion/assets/74138100/cd6d8bb0-5f01-4098-9879-e023f1824a8b">
+<img width="770" alt="Screenshot 2023-10-16 at 16 08 34" src="https://github.com/Souheilaso/Metric-Imperial-Unit-Conversion/assets/74138100/c6ad285d-8e5a-4acf-b645-8ff1c0ccc79e">
+
 
 A simple web-based tool for converting between metric and imperial units, including length, volume, and mass. This project is designed to help users quickly and conveniently convert between different measurement systems using Javascript, CSS, HTML. 
 
